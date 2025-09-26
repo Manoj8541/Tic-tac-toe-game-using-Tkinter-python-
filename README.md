@@ -48,18 +48,20 @@ A beautiful and feature-rich Tic Tac Toe game built with Python Tkinter, featuri
 - **Architecture**: Event-driven programming with callback functions
 - **No External Dependencies**: Uses only Python standard library
 
+## Acknowledgments
+
+Special thanks to [@Vishesh-Pandey](https://github.com/Vishesh-Pandey) for providing the base for this project.
+
 ## Contributing
 
-a special thanks to @Vishesh-Pandey for providing the base for this project
 Feel free to fork this project and submit pull requests for:
-
 - UI improvements
 - Sound effects
 
 ### Installation & Running
-Download code directly from tic_tac_toe.py
-or
+Download code directly from tic_tac_toe.py    
 
+or
 ```bash
 # 1. Clone or download the repository
 git clone https://github.com/Manoj8541/Tic-tac-toe-game-using-Tkinter-python-.git
