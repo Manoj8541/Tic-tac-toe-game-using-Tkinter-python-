@@ -23,24 +23,11 @@ A beautiful and feature-rich Tic Tac Toe game built with Python Tkinter, featuri
 - Take turns playing X and O
 - Great for playing with friends
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Python 3.7 or higher
 - Tkinter (comes pre-installed with Python)
-
-### Installation & Running
-```bash
-# 1. Clone or download the repository
-git clone https://github.com/Manoj8541/Tic-tac-toe-game-using-Tkinter-python-.git
-
-# 2. Navigate to the directory
-cd Tic-tac-toe-game-using-Tkinter-python-
-
-# 3. Run the game
-python tic_tac_toe.py
-
-Or simply download tic_tac_toe.py and double-click to run!
 
 ## Color Scheme
 
@@ -63,8 +50,22 @@ Or simply download tic_tac_toe.py and double-click to run!
 
 ## Contributing
 
+a special thanks to @Vishesh-Pandey for providing the base for this project
 Feel free to fork this project and submit pull requests for:
 
 - UI improvements
 - Sound effects
-- Mobile-friendly version
+
+### Installation & Running
+Download code directly from tic_tac_toe.py
+or
+
+```bash
+# 1. Clone or download the repository
+git clone https://github.com/Manoj8541/Tic-tac-toe-game-using-Tkinter-python-.git
+
+# 2. Navigate to the directory
+cd Tic-tac-toe-game-using-Tkinter-python-
+
+# 3. Run the game
+python tic_tac_toe.py
