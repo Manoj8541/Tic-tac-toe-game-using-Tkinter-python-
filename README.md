@@ -62,12 +62,18 @@ Feel free to fork this project and submit pull requests for:
 Download code directly from tic_tac_toe.py    
 
 or
-```bash
+
 # 1. Clone or download the repository
+```bash
 git clone https://github.com/Manoj8541/Tic-tac-toe-game-using-Tkinter-python-.git
+```
 
 # 2. Navigate to the directory
+```bash
 cd Tic-tac-toe-game-using-Tkinter-python-
+```
 
 # 3. Run the game
+```bash
 python tic_tac_toe.py
+```
